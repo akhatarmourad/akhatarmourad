@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhatar Mourad</h1>
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
-
-<img src="https://img.freepik.com/premium-photo/futuristic-education-with-open-book-graduation-cap-globe-earth-dark-background_1294398-3698.jpg?w=826" alt="Graduation Image" />
-
+![Banner Image](./design-github.png)
 
 - 🌱 I’m currently learning **AWS Cloud**
 
