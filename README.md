@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhatar Mourad</h1>
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
-- Hi, I'm Mourad, State Engineer from [ENSAM MEKNES](ENSAM MEKNES)
-
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 👯 I’m looking to collaborate on **Spring Boot & Next JS Projects, AI Projects & Graphic Design Missions**
