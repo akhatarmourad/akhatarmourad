@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhatar Mourad</h1>
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
-<img src="design-github.png" alt="Github Banner" />
+<img src="design-github.png" alt="Github Banner" style="margin: auto;" />
 
 - 🌱 I’m currently learning **AWS Cloud**
 
