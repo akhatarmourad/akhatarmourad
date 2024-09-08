@@ -3,15 +3,13 @@
 
 <img src="design-github.png" alt="Github Banner" align="center" />
 
-- 🌱 I’m currently learning **AWS Cloud & Flutter**
+- 🌱 Currently diving into **AWS Cloud and Flutter**.
 
-- 👯 I’m looking to collaborate on **Spring Boot & Next JS Projects, AI Projects & Graphic Design Missions**
+- 👨‍💻 My portfolio is available at [akhatarmourad.portfolio](https://akhatarmourad.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://akhatarmourad.github.io/portfolio/](https://akhatarmourad.github.io/portfolio/)
+- 💬 Ask me about **Java, NextJS, AI & BI :)**
 
-- 💬 Ask me about **Java,Data Structures, Graphic Design**
-
-- 📫 How to reach me **mourad.akhatar01@gmail.com**
+- 📫 How to reach me **mourad.akhatar01@gmail.com** | [WhatsaApp](wa.link/nzl7v8)
 
 - ⚡ Fun fact **I'm a fan of Graphic Design & Teaching**
   
