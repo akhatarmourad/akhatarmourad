@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akhatar Mourad</h1>
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
-<a align="center" href="https://www.linkedin.com/in/akhatarmourad/">
-  <img src="design-github.png" alt="Github Banner" align="center" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/akhatarmourad/">
+    <img src="design-github.png" alt="Github Banner" align="center" />
+  </a>
+</div>
+
 
 - 🌱 Currently diving into **AWS Cloud and Flutter**.
 
