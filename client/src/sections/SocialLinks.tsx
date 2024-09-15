@@ -5,7 +5,7 @@ import { BorderBeam } from '@/components/ui/border-beam';
 
 export default function SocialLinks() {
   return (
-    <div className="flex flex-col gap-32">
+    <div id="github" className="flex flex-col gap-32">
       <ContainerScroll
         titleComponent={
             <h1 className="text-4xl font-semibold text-white">

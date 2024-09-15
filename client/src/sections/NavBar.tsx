@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const NavBar = () => {
     return (
-        <header className="bg-background/40 w-full px-4 h-16 sticky top-0 inset-x-0 backdrop-blur-lg border-b border-border z-50">
+        <header id="services" className="bg-background/40 w-full px-4 h-16 sticky top-0 inset-x-0 backdrop-blur-lg border-b border-border z-50">
             <div className="flex justify-between items-center h-full mx-auto md:max-w-screen-xl">
                 {/* Logo & Name */}
                 <div className="flex flex-start">
@@ -21,13 +21,13 @@ const NavBar = () => {
                             <Link href={'#'}>Home</Link>
                         </li>
                         <li className='hover:bg-foreground/10 transition-all duration-300 rounded-full px-4 py-2'>
-                            <Link href={'#'}>About</Link>
+                            <Link href={'#github'}>About</Link>
                         </li>
                         <li className='hover:bg-foreground/10 transition-all duration-300 rounded-full px-4 py-2'>
-                            <Link href={'#'}>Services</Link>
+                            <Link href={'#services'}>Services</Link>
                         </li>
                         <li className='hover:bg-foreground/10 transition-all duration-300 rounded-full px-4 py-2'>
-                            <Link href={'#'}>Contact</Link>
+                            <Link href={'#footer'}>Contact</Link>
                         </li>
                     </ul>
                 </nav>
