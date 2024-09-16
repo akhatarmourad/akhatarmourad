@@ -31,8 +31,8 @@ export default function SocialLinks() {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 -z-10 w-full h-full blur-[15rem] inset-0 bg-gradient-to-r from-sky-600 to-fuchsia-600"></div>
       </ContainerScroll>
 
-      <Link href={'https://github.com/akhatarmourad'}>
-        <div className='z-50 flex-col items-center bg-[#0D1117] py-12 rounded-2xl w-full'>
+      <Link className='z-50' href={'https://github.com/akhatarmourad'}>
+        <div className='flex-col items-center bg-[#0D1117] py-12 rounded-2xl w-full'>
           <h2 className="text-2lx md:text-3xl lg:text-4xl font-medium mb-2 text-center">Discover My GitHub Account</h2>
           <p className='text-muted-foreground mb-14 text-center'>Access & Browse Repositories for a Wide Range of Projects with Source Code in Various Specializations</p>
           <img 
