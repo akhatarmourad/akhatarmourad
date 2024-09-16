@@ -142,6 +142,21 @@ export const reviews = [
         username: "@james",
         body: "I'm at a loss for words. This is amazing. I love it.",
     },
+    {
+        name: "MRABT Mohamed",
+        username: "@joe",
+        body: "I'm at a loss for words. This is amazing. I love it.",
+    },
+    {
+        name: "BOUSFIHA Zoubida",
+        username: "Graphic Design Student",
+        body: "I'm at a loss for words. This is amazing. I love it.",
+    },
+    {
+        name: "AZZA Mahdi",
+        username: "Mobile Developer",
+        body: "I'm at a loss for words. This is amazing. I love it.",
+    },
 ];
 
 export const clients = [
@@ -154,7 +169,7 @@ export const clients = [
         title: "Centre ISCOP"
     },
     {
-        logo: "/assets/sanali.png",
+        logo: "/assets/Sanali.png",
         title: "Sanali Vision"
     },
     {
