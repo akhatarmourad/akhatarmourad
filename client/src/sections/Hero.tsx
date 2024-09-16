@@ -40,7 +40,7 @@ export default function Hero() {
             height={24}
             className="w-6 h-6"
           />
-          Akhatar Mourad&apos;s Self Intro
+          Akhatar Mourad&apos;s Journey
           <ChevronRight className="w-6 h-6" />
         </span>
       </Link>

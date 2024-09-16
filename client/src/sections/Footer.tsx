@@ -1,8 +1,10 @@
+"use client";
 import React from 'react';
 import { Container, Wrapper } from '@/components';
 import { LampContainer } from '@/components/ui/lamp';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
+import { TextRevealCard, TextRevealCardDescription, TextRevealCardTitle } from "@/components/ui/text-reveal-card";
 
 export default function Footer() {
   return (
@@ -35,6 +37,22 @@ export default function Footer() {
               </form>
             </div>
           </div>
+        </div>
+      </Container>
+
+      <Container>
+        <div className="flex items-center justify-center h-[40rem] rounded-2xl w-full">
+          <TextRevealCard
+            text="You Have a Vision ?"
+            revealText="Let&apos;s make it happen"
+          >
+            <TextRevealCardTitle>
+              Sometimes, we should appreciate the effort behind the scenes
+            </TextRevealCardTitle>
+            <TextRevealCardDescription>
+              Hover over this card to uncover something special !
+            </TextRevealCardDescription>
+          </TextRevealCard>
         </div>
       </Container>
     </Wrapper>

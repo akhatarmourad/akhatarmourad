@@ -1,4 +1,5 @@
 import { Icons } from "@/components";
+import { title } from "process";
 
 export const perks = [
     {
@@ -196,4 +197,36 @@ export const clients = [
         logo: "/assets/Shama.png",
         title: "Shama Coin"
     },
+    {
+        logo: "/assets/social.svg",
+        title: "Club Social A&M"
+    },
+    {
+        logo: "/assets/caravane.svg",
+        title: "Caravane Al Hayat"
+    },
+    {
+        logo: "/assets/aman.png",
+        title: "Aman Charity Assoc"
+    },
+    {
+        logo: "/assets/zenith.png",
+        title: "Restaurant Zenith"
+    },
+    {
+        logo: "/assets/ensam.png",
+        title: "Forum ENSAM Meknes"
+    },
+    {
+        logo: "/assets/arejdal.png",
+        title: "Rewaq Arejdal"
+    },
+    {
+        logo: "/assets/modhila.png",
+        title: "Salon MODHILA"
+    },
+    {
+        logo: "/assets/afak.png",
+        title: "Centre Afak"
+    }
 ];
