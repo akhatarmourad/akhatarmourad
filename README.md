@@ -28,6 +28,13 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/akhatarmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhatarmourad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akhatarmourad" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akhatarmourad" height="30" width="40" /></a>
+
 <a href="https://instagram.com/devdescom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devdescom" height="30" width="40" /></a>
+
+<a href="https://akhatarmourad.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="akhatarmourad" height="30" width="40" /></a>
+
+<a href="mailto:mourad.akhatar01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akhatarmourad" height="30" width="40" /></a>
+
+<a href="wa.link/nzl7v8" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="akhatarmourad" height="30" width="40" /></a>
 </p>
