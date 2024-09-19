@@ -31,10 +31,5 @@
 <a href="https://linkedin.com/in/akhatarmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhatarmourad" height="30" width="40" /></a>
 <!-- Adding Instagram Link -->
 <a href="https://instagram.com/devdescom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devdescom" height="30" width="40" /></a>
-<!-- Adding Portfolio Link -->
-<a href="https://akhatarmourad.github.io/portfolio/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/webpage_9701636" alt="portfolio" height="30" width="40" /></a>
-<!-- Adding Website Link -->
-<a href="https://akhatarmourad.vercel.app/" target="blank"><img align="center" src="https://in.pinterest.com/pin/png-world-wide-web-logo-icon-transparent-background-website-png-download--666321707372812339/" alt="website" height="30" width="40" /></a>
-<!-- Adding Email Link -->
-<a href="mailto:mourad.akhatar01@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/gmail" alt="gmail" height="30" width="40" /></a>
+
 </p>
