@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jost+Semibold&size=30&pause=999&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhatar+Mourad" alt="Typing SVG" />
 </p>
-
-<h3 align="center"  style="font-family:Jost, sans-serif; font-size:20px;">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
+<h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
 <br />
 
@@ -26,8 +25,16 @@
 
 <hr />
 
-<h3 align="center">Connect With Me</h3>
-<p align="center">
+<h3 align="left">Connect With Me</h3>
+<p align="left">
+<!-- Adding LinkedIn Icon -->
 <a href="https://linkedin.com/in/akhatarmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhatarmourad" height="30" width="40" /></a>
+<!-- Adding Instagram Link -->
 <a href="https://instagram.com/devdescom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devdescom" height="30" width="40" /></a>
+<!-- Adding Portfolio Link -->
+<a href="https://akhatarmourad.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="portfolio" height="30" width="40" /></a>
+<!-- Adding Website Link -->
+<a href="https://akhatarmourad.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website" height="30" width="40" /></a>
+<!-- Adding Email Link -->
+<a href="mailto:mourad.akhatar01@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
