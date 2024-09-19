@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akhatar Mourad</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhatarmourad/akhatarmourad/master/assets/logo.png" alt="Logo" width="80" height="80">
+</p>
+
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
 <div align="center">
