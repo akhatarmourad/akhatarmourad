@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhatarmourad/akhatarmourad/master/assets/logo.png" alt="Logo" width="80" height="80">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jost+Semibold&size=30&pause=999&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhatar+Mourad" alt="Typing SVG" /></a>
 
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
