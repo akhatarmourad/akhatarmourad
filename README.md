@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Jost+Semibold&size=30&pause=999&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhatar+Mourad" alt="Typing SVG" />
 </p>
 
-<hr />
+<h4 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h4>
 
-<h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akhatarmourad/">
@@ -24,13 +24,10 @@
 
 - ⚡ Fun fact **I'm a fan of Graphic Design & Teaching**
 
-<br />
 <hr />
-<br />
 
-<h3 align="left">Connect With Me : </h3>
-<p align="left">
+<h3 align="center">Connect With Me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/akhatarmourad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhatarmourad" height="30" width="40" /></a>
 <a href="https://instagram.com/devdescom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devdescom" height="30" width="40" /></a>
-
 </p>
