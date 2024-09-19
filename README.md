@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Jost+Semibold&size=30&pause=999&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhatar+Mourad" alt="Typing SVG" /></a>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Jost+Semibold&size=30&pause=999&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhatar+Mourad" alt="Typing SVG" /></p>
 
 <h3 align="center">an AI & Data Science Engineer & a passionate Graphic Designer from Morocco</h3>
 
