@@ -13,7 +13,7 @@
 
 <br />
 
-- 🌱 Currently diving into **AWS Cloud and Flutter**.
+- 🌱 Currently diving into **Next JS & Power BI**.
 
 - 👨‍💻 My portfolio is available at [akhatarmourad.portfolio](https://akhatarmourad.github.io/portfolio/)
 
